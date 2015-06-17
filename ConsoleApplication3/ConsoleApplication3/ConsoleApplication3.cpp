@@ -9,7 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	int i = 0;
 	cout << "hello";
-	//cin >> i;
+	////cin >> i;
 
 
 	return 0;
